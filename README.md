@@ -1,4 +1,3 @@
-
 Hi there! I'm Prasad Anishkumar Umesh 👋
 
 🚀 About Me
@@ -81,7 +80,7 @@ Career Edge Certification – TCS iON
 
 ---
 
-📫 Connect with Me!
+📢 Connect with Me!
 
 LinkedIn: anishkumar11
 
@@ -96,7 +95,4 @@ Email: anishprasad2512@gmail.com
 > "void"
 
 
-
-
----
 
