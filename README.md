@@ -59,9 +59,6 @@ Real-Time Chat Platform: A scalable, real-time chat application using Next.js, N
 Course Selling App: A MERN-based full-stack platform allowing users to browse, buy, and manage courses securely.
 
 
-> Check out my full portfolio here: anish-five.vercel.app
-
-
 
 
 ---
